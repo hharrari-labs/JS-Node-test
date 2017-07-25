@@ -1,0 +1,7 @@
+toto : /space/home/hharrari/front_lexpress/views/web/www_cotemaison_fr/vie_pratique
+toto : /space/home/hharrari/front_lexpress/views/web/www_cotemaison_fr/videos
+toto : /space/home/hharrari/front_lexpress/views/web/www_cotemaison_fr/shopping
+toto : /space/home/hharrari/front_lexpress/views/web/www_cotemaison_fr/salons_vivre_cote_sud
+toto : /space/home/hharrari/front_lexpress/views/web/www_cotemaison_fr/salon_salle_a_manger
+toto : /space/home/hharrari/front_lexpress/views/web/www_cotemaison_fr/salle_de_bains
+toto : /space/home/hharrari/front_lexpress/views/web/www_cotemaison_fr/rwd_common.twig
